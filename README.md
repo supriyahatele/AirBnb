@@ -32,7 +32,9 @@ Project-Presentation Link:https://youtu.be/BllQ-pgqktg
 ## Admin credentials
   <p>login: admin@admin.com</p>
   <p>password: admin</p>
-
+## User Credential 
+ <p>"email": underiyadeepak@gmail.com </p>
+ <p>"password": 123 </p>
   
 ## Installation & Getting started
 
